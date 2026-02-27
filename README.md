@@ -2,18 +2,25 @@
 # Salut ! Moi c'est Victor 👋
 
 ### Concepteur Développeur d'Applications Fullstack (MERN) 🚀
-[cite_start]Actuellement en formation CDA à l'AFEC Bayonne, je mets mes compétences au service de projets web dynamiques[cite: 3, 72]. [cite_start]Mon approche couvre l'intégralité du cycle projet : de la conception UX/UI au déploiement[cite: 4, 6].
+[cite_start]Actuellement en formation **CDA à l'AFEC Bayonne**, je recherche un **stage** pour mettre mes compétences au service d'une entreprise dynamique. [cite_start]Mon approche couvre l'intégralité du cycle projet : de la conception UX/UI au déploiement[cite: 4].
 
 ---
 
-### 💼 Expériences & Savoir-être
-[cite_start]Mon parcours est marqué par une double compétence technique et commerciale[cite: 52, 74]:
-
-* [cite_start]**Soft Skills :** Négociation, écoute active, empathie et gestion de la relation client[cite: 63, 64, 66].
-* [cite_start]**Méthodologie :** Travail en mode Agile, rédaction de cahiers des charges et rigueur opérationnelle[cite: 67, 68].
-* [cite_start]**Profil :** Autonome et résilient, j'ai développé une grande capacité d'adaptation via mes expériences variées[cite: 59, 69].
+### 💼 Un Profil Hybride : Technique & Business
+[cite_start]Issu d'un **BTS NDRC**, j'allie la rigueur du code à une forte culture client:
+* [cite_start]**Expertise Web :** Développement d'applications MERN sécurisées (JWT) et gestion de CMS (WordPress/WC)[cite: 44, 50, 51].
+* [cite_start]**Relation Client :** Négociation, écoute active et analyse des besoins (expérience BHCar)[cite: 54, 64, 66].
+* [cite_start]**Méthodologie :** Travail en mode Agile et rédaction de cahiers des charges[cite: 68].
 
 ---
+
+### 🛠 Tech Stack Globale
+* [cite_start]**Frontend :** React.js (Vite), JavaScript ES6+, Tailwind, Bootstrap, Axios[cite: 25, 27, 30, 34].
+* [cite_start]**Backend :** Node.js, Express, MongoDB, MySQL (notions)[cite: 20, 35, 36].
+* [cite_start]**Outils :** Figma, Postman, Git/GitHub, Vercel, Render[cite: 37, 38, 40].
+
+---
+
 
 ### 🛠 Tech Stack:
 **Frontend & UI**
