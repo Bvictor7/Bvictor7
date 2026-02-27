@@ -1,23 +1,23 @@
 # 💫 About Me:
 # Salut ! Moi c'est Victor 👋
 
-### Concepteur Développeur d'Applications Fullstack (MERN) 🚀
-[cite_start]Actuellement en formation **CDA à l'AFEC Bayonne**, je recherche un **stage** pour mettre mes compétences au service d'une entreprise dynamique. [cite_start]Mon approche couvre l'intégralité du cycle projet : de la conception UX/UI au déploiement[cite: 4].
+### Concepteur Développeur d'Applications Fullstack (MERN).
+Actuellement en formation **CDA à l'AFEC Bayonne**, je recherche un **stage** pour mettre mes compétences au service d'une entreprise dynamique.Mon approche couvre l'intégralité du cycle projet : de la conception UX/UI au déploiement.
 
 ---
 
 ### 💼 Un Profil Hybride : Technique & Business
-[cite_start]Issu d'un **BTS NDRC**, j'allie la rigueur du code à une forte culture client:
-* [cite_start]**Expertise Web :** Développement d'applications MERN sécurisées (JWT) et gestion de CMS (WordPress/WC)[cite: 44, 50, 51].
-* [cite_start]**Relation Client :** Négociation, écoute active et analyse des besoins (expérience BHCar)[cite: 54, 64, 66].
-* [cite_start]**Méthodologie :** Travail en mode Agile et rédaction de cahiers des charges[cite: 68].
+Issu d'un **BTS NDRC**, j'allie la rigueur du code à une forte culture client:
+**Expertise Web :** Développement d'applications MERN sécurisées (JWT) et gestion de CMS (WordPress/WC).
+**Relation Client :** Négociation, écoute active et analyse des besoins (expérience BHCar).
+**Méthodologie :** Travail en mode Agile et rédaction de cahiers des charges.
 
 ---
 
 ### 🛠 Tech Stack Globale
-* [cite_start]**Frontend :** React.js (Vite), JavaScript ES6+, Tailwind, Bootstrap, Axios[cite: 25, 27, 30, 34].
-* [cite_start]**Backend :** Node.js, Express, MongoDB, MySQL (notions)[cite: 20, 35, 36].
-* [cite_start]**Outils :** Figma, Postman, Git/GitHub, Vercel, Render[cite: 37, 38, 40].
+**Frontend :** React.js (Vite), JavaScript ES6+, Tailwind, Bootstrap, Axios.
+**Backend :** Node.js, Express, MongoDB, MySQL (notions).
+**Outils :** Figma, Postman, Git/GitHub, Vercel, Render.
 
 ---
 
@@ -42,10 +42,10 @@
 ---
 
 ### 📫 Contact & Langues
-* [cite_start]📍 **Région :** Saint-Palais (64) [cite: 9]
-* [cite_start]🗣 **Langues :** Français, Kabyle, Espagnol, Anglais (B2) 
-* [cite_start]🚗 **Mobilité :** Permis B [cite: 13]
-* [cite_start]✉️ **Email :** [belahcene2@gmail.com](mailto:belahcene2@gmail.com) [cite: 9]
+📍 **Région :** Saint-Palais (64).
+🗣 **Langues :** Français, Kabyle, Espagnol, Anglais (B2)
+🚗 **Mobilité :** Permis B
+✉️ **Email :** [belahcene2@gmail.com](mailto:belahcene2@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bvictor&icon=0&color=12)](https://visitcount.itsvg.in)
